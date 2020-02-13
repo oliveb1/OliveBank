@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OliveBank", "OliveBank\OliveBank.csproj", "{7BF410EE-D2BD-4156-9979-68465A68C598}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BF410EE-D2BD-4156-9979-68465A68C598}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BF410EE-D2BD-4156-9979-68465A68C598}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BF410EE-D2BD-4156-9979-68465A68C598}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BF410EE-D2BD-4156-9979-68465A68C598}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D582BBB0-D170-41DF-88E5-5177DCB626F5}
+	EndGlobalSection
+EndGlobal
